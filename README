@@ -1,0 +1,17 @@
+Easiest Image Gallery - überhaupt
+
+Ever wanted a full-customizable image gallery with multiple albums? 
+*Eig* lets you create a galleries by just putting files on your webserver.
+
+Save the pictures of an album in subfolders (so far I just tried numeric names *g) of "galleries" and *eig* will worry about the rest.
+
+Optional you can claim proper headers, subheaders and descriptions in galleries/texts.php for your albums.
+The image title, image description and any copyright statements that may arise will be read from the meta data of the image - so you can use your favorite photo-viewer to manage them e.g. aperture. 
+
+Pretty easy - huh?
+
+*Eig* is made by mixing Pixlie, Galleriffic and Easyslider!
+
+Here see a live demo:
+
+http://www.woinar.de/eig/
